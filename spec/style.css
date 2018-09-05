@@ -1,0 +1,12 @@
+body{
+  background-color: pink;
+}
+
+.Cherian {
+  grid-row: 1 / 4;
+}
+
+.gif hello {
+  grid-row: 1 / span 2;
+}
+
